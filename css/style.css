@@ -104,6 +104,17 @@ header nav a:hover{
     display: flex;
 }
 
-.carrosel-filmes{
+.tittlecatalogo {
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 40px;
+    color: white;
+}
+
+a{
+    text-decoration: none;
+}
+
+#carrosel-filmes{
     margin-top: 5px;
 }
