@@ -1,12 +1,3 @@
-function troca(){
-    document.getElementById("filmep").src = "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg";
-}
-
-
-
-
-
-
 $('.owl-carousel').owlCarousel({
     loop:false,
     margin:15,
