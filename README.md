@@ -2,7 +2,7 @@
  
  ### **Sobre o projeto**
 
-Projeto feito junto com o bootcamp da Digital Innovation One, trabalhos com FlexBox, responsividade, etc
+Projeto feito junto com o bootcamp da Digital Innovation One, trabalhamos com FlexBox, responsividade e Jquery
 
 ### **Lista de tarefas**
 
@@ -10,7 +10,7 @@ Projeto feito junto com o bootcamp da Digital Innovation One, trabalhos com Flex
 
 [X] Css
 
-[] JavaScript
+[ ] JavaScript
 
 [X] CleanCode/Revisão
 
