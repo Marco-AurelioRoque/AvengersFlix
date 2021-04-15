@@ -24,7 +24,7 @@ Quero adicionar mais funcionalidades, e tambem mais filmes para ficar com um res
 
 ![image](https://user-images.githubusercontent.com/80369075/114324370-f86a8300-9aff-11eb-9435-af5349752b14.png)
 
-[Link do projeto](avengerflix.netlify.app)
+### **Projeto funcionando** [Clique aqui](https://avengerflix.netlify.app/)
 
 
 ### **Referencias**
